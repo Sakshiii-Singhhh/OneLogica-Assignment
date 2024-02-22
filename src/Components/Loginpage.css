@@ -1,0 +1,151 @@
+
+.Loginpage_Loginpage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+}
+.Loginpage_Loginpage .Clippathgroup {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Loginpage_Loginpage .Clippathgroup .clipiPhone_14_Pro_Max_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Loginpage_Loginpage .Clippathgroup .clipiPhone_14_Pro_Max_4 .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Loginpage_Loginpage .Clippathgroup .iPhone14ProMax4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Loginpage_Loginpage .Clippathgroup .iPhone14ProMax4 .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Loginpage_Loginpage .Clippathgroup .iPhone14ProMax4 .Group4 {
+	position: absolute;
+	left: 82.075px;
+	top: 180.9px;
+	width: 88.83720930232558%;
+	height: 9.066523605150214%;
+}
+.Loginpage_Loginpage .Clippathgroup .iPhone14ProMax4 .Group4 .Login {
+	position: absolute;
+	left: 377.08273925781253px;
+	top: 0px;
+	width: 36.910994764397905%;
+	height: 82.84023668639054%;
+	color: rgba(0,0,0,1.00);
+	font-family: Inria Sans;
+	font-size: 194.3px;
+	font-weight: 400;
+	line-height: 232.9656993865967px;
+}
+.Loginpage_Loginpage .Clippathgroup .iPhone14ProMax4 .Group4 .Line1 {
+	position: absolute;
+	left: 0px;
+	top: 283.075px;
+	width: 100%;
+	height: 0%;
+}
+.Loginpage_Loginpage ._6171704 {
+	position: absolute;
+	left: 36.85px;
+	top: 646.5500000000001px;
+	width: 94.65116279069767%;
+	height: 43.66952789699571%;
+	object-fit: cover;
+	overflow: hidden;
+}
+.Loginpage_Loginpage .Group2 {
+	position: absolute;
+	left: 144.05px;
+	top: 2046.8500000000001px;
+	width: 80%;
+	height: 7.939914163090128%;
+}
+.Loginpage_Loginpage .Group2 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	mix-blend-mode: darken;
+}
+.Loginpage_Loginpage .Group2 .Login_1 {
+	position: absolute;
+	left: 437.3827392578125px;
+	top: 43.550000000000004px;
+	width: 23.837209302325583%;
+	height: 55.4054054054054%;
+	color: rgba(255,255,255,1.00);
+	font-family: Inria Sans;
+	font-size: 113.9px;
+	font-weight: 400;
+	line-height: 136.56609611511232px;
+}
+.Loginpage_Loginpage .Password {
+	position: absolute;
+	left: 103.85000000000001px;
+	top: 1363.45px;
+	width: 39.76744186046511%;
+	height: 6.330472103004292%;
+	display: flex;
+	align-items: flex-end;
+	color: rgba(0,0,0,1.00);
+	font-family: Bellefair;
+	font-size: 100.5px;
+	font-weight: 400;
+	line-height: 115.17300357818604px;
+}
+.Loginpage_Loginpage .Email {
+	position: absolute;
+	left: 103.85000000000001px;
+	top: 904.5px;
+	width: 39.76744186046511%;
+	height: 6.330472103004292%;
+	display: flex;
+	align-items: flex-end;
+	color: rgba(0,0,0,1.00);
+	font-family: Bellefair;
+	font-size: 100.5px;
+	font-weight: 400;
+	line-height: 115.17300357818604px;
+}
+.Loginpage_Loginpage .Line3 {
+	position: absolute;
+	left: 110.55px;
+	top: 1115.55px;
+	width: 76.27906976744187%;
+	height: 0.2145922746781116%;
+	border: 1px solid rgba(0,0,0,1);
+}
+.Loginpage_Loginpage .Line4 {
+	position: absolute;
+	left: 103.85000000000001px;
+	top: 1574.5px;
+	width: 76.27906976744187%;
+	height: 0.2145922746781116%;
+	border: 1px solid rgba(0,0,0,1);
+}

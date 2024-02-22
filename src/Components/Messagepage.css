@@ -1,0 +1,234 @@
+
+.Messagepage_Messagepage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Messagepage_Messagepage .Clippathgroup {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Messagepage_Messagepage .Clippathgroup .clipiPhone_14_Pro_Max_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Messagepage_Messagepage .Clippathgroup .clipiPhone_14_Pro_Max_4 .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Messagepage_Messagepage .Clippathgroup .iPhone14ProMax4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Messagepage_Messagepage .Clippathgroup .iPhone14ProMax4 .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Messagepage_Messagepage .Rectangle3 {
+	position: absolute;
+	left: 0px;
+	top: -80.4px;
+	width: 100%;
+	height: 15.343347639484978%;
+	background: rgba(108,78,252,1.00);
+}
+.Messagepage_Messagepage .Group12 {
+	position: absolute;
+	left: 20.1px;
+	top: 150.75px;
+	width: 703.5798957824708px;
+	height: 90.4892578125px;
+}
+.Messagepage_Messagepage .Group12 .Dashboard {
+	position: absolute;
+	right: -0.0000011980533599853516px;
+	top: 0px;
+	width: 609.7806297937292px;
+	height: 87.66615292179631px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inria Sans;
+	font-size: 107.2px;
+	font-weight: 700;
+	line-height: 128.5328001022339px;
+}
+.Messagepage_Messagepage .Group12 .Group11 {
+	position: absolute;
+	left: 0px;
+	top: 43.550000000000004px;
+	width: 77.05px;
+	height: 46.9392578125px;
+}
+.Messagepage_Messagepage .Group12 .Group11 .Line5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 77.05px;
+	height: 0px;
+}
+.Messagepage_Messagepage .Group12 .Group11 .Line6 {
+	position: absolute;
+	left: 0px;
+	top: 46.9392578125px;
+	width: 77.05px;
+	height: 0px;
+}
+.Messagepage_Messagepage .Group12 .Group11 .Line7 {
+	position: absolute;
+	left: 0px;
+	top: 23.49580078125px;
+	width: 57.915777969360356px;
+	height: 0px;
+}
+.Messagepage_Messagepage .Messages {
+	position: absolute;
+	left: -261.3px;
+	top: 445.55px;
+	width: 1232.8px;
+	height: 201px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inria Sans;
+	font-size: 134px;
+	font-weight: 400;
+	line-height: 160.6659969329834px;
+}
+.Messagepage_Messagepage ._634574 {
+	position: absolute;
+	left: 77.05px;
+	top: 720.25px;
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 178.50983562469483px;
+}
+.Messagepage_Messagepage ._634573 {
+	position: absolute;
+	left: 750.4px;
+	top: 720.25px;
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 178.50983562469483px;
+}
+.Messagepage_Messagepage ._634572 {
+	position: absolute;
+	left: 418.75px;
+	top: 720.25px;
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 178.50983562469483px;
+}
+.Messagepage_Messagepage ._1 {
+	position: absolute;
+	left: 285.13953488372096%;
+	bottom: 2133.9500000000003px;
+	transform: translate(-50%, 0);
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 368.5px;
+}
+.Messagepage_Messagepage .Rectangle19 {
+	position: absolute;
+	left: 80.4px;
+	top: 1189.25px;
+	width: 1266.3px;
+	height: 371.85px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 16.75px;
+}
+.Messagepage_Messagepage ._634575 {
+	position: absolute;
+	left: 1045.2px;
+	top: 1242.8500000000001px;
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 178.50983562469483px;
+}
+.Messagepage_Messagepage .Rectangle20 {
+	position: absolute;
+	left: 80.4px;
+	top: 2703.4500000000003px;
+	width: 1266.3px;
+	height: 371.85px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 16.75px;
+}
+.Messagepage_Messagepage .Rectangle21 {
+	position: absolute;
+	left: 80.4px;
+	top: 2187.55px;
+	width: 1266.3px;
+	height: 371.85px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 16.75px;
+}
+.Messagepage_Messagepage .Rectangle22 {
+	position: absolute;
+	left: 77.05px;
+	top: 1671.65px;
+	width: 1266.3px;
+	height: 371.85px;
+	background: rgba(217,217,217,1.00);
+	border-radius: 16.75px;
+}
+.Messagepage_Messagepage ._634576 {
+	position: absolute;
+	left: 113.9px;
+	top: 1725.25px;
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 178.50983562469483px;
+}
+.Messagepage_Messagepage ._634577 {
+	position: absolute;
+	left: 1045.2px;
+	top: 2241.15px;
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 178.50983562469483px;
+}
+.Messagepage_Messagepage ._634578 {
+	position: absolute;
+	left: 57.65116279069768%;
+	bottom: 100.5px;
+	transform: translate(-50%, 0);
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 368.5px;
+}

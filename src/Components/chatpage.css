@@ -1,0 +1,198 @@
+
+.chatpage_chatpage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.chatpage_chatpage .Clippathgroup {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.chatpage_chatpage .Clippathgroup .clipiPhone_14_Pro_Max_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.chatpage_chatpage .Clippathgroup .clipiPhone_14_Pro_Max_4 .Vector {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.chatpage_chatpage .Clippathgroup .iPhone14ProMax4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.chatpage_chatpage .Clippathgroup .iPhone14ProMax4 .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.chatpage_chatpage .Rectangle3 {
+	position: absolute;
+	left: 0px;
+	top: -80.4px;
+	width: 100%;
+	height: 15.343347639484978%;
+	background: rgba(108,78,252,1.00);
+}
+.chatpage_chatpage .Group12 {
+	position: absolute;
+	left: 20.1px;
+	top: 150.75px;
+	width: 703.5798957824708px;
+	height: 90.4892578125px;
+}
+.chatpage_chatpage .Group12 .Dashboard {
+	position: absolute;
+	right: -0.0000011980533599853516px;
+	top: 0px;
+	width: 609.7806297937292px;
+	height: 87.66615292179631px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inria Sans;
+	font-size: 107.2px;
+	font-weight: 700;
+	line-height: 128.5328001022339px;
+}
+.chatpage_chatpage .Group12 .Group11 {
+	position: absolute;
+	left: 0px;
+	top: 43.550000000000004px;
+	width: 77.05px;
+	height: 46.9392578125px;
+}
+.chatpage_chatpage .Group12 .Group11 .Line5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 77.05px;
+	height: 0px;
+}
+.chatpage_chatpage .Group12 .Group11 .Line6 {
+	position: absolute;
+	left: 0px;
+	top: 46.9392578125px;
+	width: 77.05px;
+	height: 0px;
+}
+.chatpage_chatpage .Group12 .Group11 .Line7 {
+	position: absolute;
+	left: 0px;
+	top: 23.49580078125px;
+	width: 57.915777969360356px;
+	height: 0px;
+}
+.chatpage_chatpage .Messages {
+	position: absolute;
+	left: -261.3px;
+	top: 445.55px;
+	width: 1232.8px;
+	height: 201px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inria Sans;
+	font-size: 134px;
+	font-weight: 400;
+	line-height: 160.6659969329834px;
+}
+.chatpage_chatpage .Rectangle19 {
+	position: absolute;
+	left: 167.5%;
+	top: 847.5500000000001px;
+	transform: translate(-50%, 0);
+	width: 1266.3px;
+	height: 1604.65px;
+	background: rgba(184,169,255,1.00);
+	border-radius: 16.75px;
+}
+.chatpage_chatpage .Rectangle26 {
+	position: absolute;
+	left: 147.4px;
+	top: 2056.9px;
+	width: 740.3485176086426px;
+	height: 182.57500000000002px;
+}
+.chatpage_chatpage .Rectangle25 {
+	position: absolute;
+	left: 559.4498466491699px;
+	top: 1812.3500000000001px;
+	width: 740.3485176086426px;
+	height: 182.57500000000002px;
+}
+.chatpage_chatpage ._634575 {
+	position: absolute;
+	left: 45.186046511627914%;
+	top: 760.45px;
+	transform: translate(-50%, 0);
+	width: 268px;
+	height: 268px;
+	object-fit: cover;
+	overflow: hidden;
+	border-radius: 178.50983562469483px;
+}
+.chatpage_chatpage .Rectangle23 {
+	position: absolute;
+	left: 147.403271484375px;
+	top: 1045.2px;
+	width: 743.7628738403321px;
+	height: 705.1750000000001px;
+}
+.chatpage_chatpage .Rectangle24 {
+	position: absolute;
+	left: 559.4498466491699px;
+	top: 1306.5px;
+	width: 740.3485176086426px;
+	height: 182.57500000000002px;
+}
+.chatpage_chatpage .Rectangle27 {
+	position: absolute;
+	left: 164.15px;
+	top: 2304.8px;
+	width: 1105.5px;
+	height: 110.55px;
+	background: rgba(236,234,234,1.00);
+	border-radius: 67px;
+}
+.chatpage_chatpage .message {
+	position: absolute;
+	left: 211.05px;
+	top: 2324.9px;
+	width: 445.55px;
+	height: 23.45px;
+	color: rgba(112,112,112,1.00);
+	font-family: Inria Sans;
+	font-size: 50.25px;
+	font-weight: 300;
+	line-height: 60.249752044677734px;
+}
+.chatpage_chatpage .Send {
+	position: absolute;
+	left: 1122.25px;
+	top: 2331.6px;
+	width: 257.95px;
+	height: 63.65px;
+	color: rgba(46,2,255,1.00);
+	font-family: Inria Sans;
+	font-size: 50.25px;
+	font-weight: 400;
+	line-height: 60.249752044677734px;
+}
